@@ -1,2 +1,3 @@
-# prime-analytics-dashboard-h7x8
-Automated issue comment bot repository
+# Prime Analytics Dashboard H7X8
+
+Automated issue comment bot repository.
